@@ -1,0 +1,5 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+b.edooon.com	FALSE	/	FALSE		JSESSIONID	40F066A099B56B3ED73900AD6894D161
